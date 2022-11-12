@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Madina Zhaksylyk. My love for coding has led me to data analytics. What I do is transform data into a narrative with stunning visualizations to help people make informed decisions. I am a Bootcamp graduate from the Universtiy of Minnesota, Minneapolis equipped with skills in Python, Excel, Tableau and Javascript. When I am not coding or playing with data, I love go on runs, hikes, and travel to new places.
 
 <!--
 **madinalikes/madinalikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
